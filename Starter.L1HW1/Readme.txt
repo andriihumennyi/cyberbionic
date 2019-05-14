@@ -6,4 +6,4 @@
    пользователь введет в textBox1. 
 Решение:
  - используя панель управления добавить 3 элемента(1 Button & 2 TextBox)
- - в Code Behind присвоить TextBox2 значению TextBox1
+ - в Code Behind присвоить TextBox2 значение TextBox1
