@@ -1,0 +1,15 @@
+D:\Repos\cyberbionic\Starter.L1HW1\bin\Debug\Starter.L1HW1.exe.config
+D:\Repos\cyberbionic\Starter.L1HW1\bin\Debug\Starter.L1HW1.exe
+D:\Repos\cyberbionic\Starter.L1HW1\bin\Debug\Starter.L1HW1.pdb
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.csprojAssemblyReference.cache
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\MainWindow.g.cs
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\App.g.cs
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1_MarkupCompile.cache
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1_MarkupCompile.lref
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\MainWindow.baml
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.g.resources
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.Properties.Resources.resources
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.csproj.GenerateResource.cache
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.csproj.CoreCompileInputs.cache
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.exe
+D:\Repos\cyberbionic\Starter.L1HW1\obj\Debug\Starter.L1HW1.pdb
